@@ -1,0 +1,5 @@
+__pycache__/
+.venv/
+*.pyc
+data/processed/*.csv
+reports/excluded_invalid_quantity.csv
